@@ -27,7 +27,7 @@ Think of it as a **window to another webpage** within your own page.
 
 ---
 
-## 💻 Example
+##   Example
 
 ```html
 <iframe 
