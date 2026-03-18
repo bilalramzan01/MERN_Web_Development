@@ -1,0 +1,23 @@
+h1{
+    text-decoration:  underline blue wavy 10px;
+    text-align: center;
+}
+A{
+    text-decoration: none;
+    color: blueviolet;
+}
+#p1 {
+    font-family: 'Lucida Sans';
+    font-weight: 800px;
+
+}
+#p2 {
+    font-family: Times New Roman;
+    font-weight: 200px;
+
+}
+#p3 {
+    font-family: Georgia ;
+    font-weight: bolder;
+    
+}
