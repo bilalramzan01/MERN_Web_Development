@@ -23,16 +23,38 @@
     </div>
     <div>
         <form action="me.php">
-            <h1>Select class section</h1>
+            <h1>Choices</h1>
 
-            <input type="radio" name="section" id="section">
-            <label for="section">A</label>
+            <input type="radio" name="section" id="section1">
+            <label for="section1">A</label>
 
-            <input type="radio" name="section" id="section">
-            <label for="section">B</label>
+            <input type="radio" name="section" id="section2" checked>
+            <label for="section2">B</label>
 
-            <input type="radio" name="section" id="section">
-            <label for="section">C</label>
+            <input type="radio" name="section" id="section3">
+            <label for="section3">C</label> <br>
+            <h1>More then one selection</h1>
+            <input type="checkbox" name="section" id="sec1">
+            <label for="sec1">Football</label>
+
+            <input type="checkbox" name="section" id="sec2">
+            <label for="sec2">Volly Ball</label>
+
+            <input type="checkbox" name="section" id="sec3">
+            <label for="sec3">Basket Ball</label>
+            <br>
+            <h1>Dropdowns</h1>
+            <label for="city">Select city</label>
+            <select name="city" id="city">
+                <option value="PINDI">PINDI</option>
+                <option value="ISL">ISL</option>
+                <option value="PESH" selected>PESH</option>
+            </select> <Br></Br>
+            <label for="date">Date</label>
+            <input type="date" name="date" id="date">
+
+
+
         </form>
     </div>
 </body>
