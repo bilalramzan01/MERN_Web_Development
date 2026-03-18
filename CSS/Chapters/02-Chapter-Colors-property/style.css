@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 110, 110);
+}
+h1{
+    color: brown;
+   background-color: rgb(210, 210, 10);
+}
+p{
+    color: violet;
+    background-color: black;
+}
+button{
+    color: rgb(1, 64, 58);
+    background-color: rgb(255, 196, 196);
+}
