@@ -1,0 +1,34 @@
+/* Universal selector */
+
+*{
+    color: violet;
+}
+
+/* element selector */
+p{
+    color:green;
+}
+
+button{
+    background-color: yellow;
+}
+
+
+/* ID Selector
+Selects a unique element. start with#
+ */
+
+ #my{
+    color: tomato;
+ }
+
+/* Class Selector
+Selects a unique element. start with .
+ */
+
+.mine{
+    color: yellowgreen;
+}
+
+
+ 
