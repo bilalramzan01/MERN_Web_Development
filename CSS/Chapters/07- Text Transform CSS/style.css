@@ -1,0 +1,17 @@
+#p1{
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: rgb(82, 117, 10);
+    background-color: rgb(163, 229, 229);
+    text-decoration: underline;
+    font-weight: bold;
+}
+#p2{
+    font-size: 10px;
+    text-transform: lowercase;
+}
+p{
+    font-size: normal;
+    text-transform: capitalize;
+}
