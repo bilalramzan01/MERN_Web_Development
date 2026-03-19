@@ -1,28 +1,60 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
-#mynav{
+
+#mynav {
     background-color: rgb(255, 81, 18);
     height: 60px;
     border: 10px 0px 10px 0px black solid;
-    padding: 30px  5px 0px  5px;
+    padding: 30px 5px 0px 5px;
 
 }
-a{
+
+a {
     text-decoration: none;
     color: white;
-    margin-right: 110px;
+    margin-right: 100px;
 }
-input{
+
+input {
     height: 30px;
     width: 200px;
     border-radius: 5px;
 }
-button{
+
+button {
     height: 30px;
     width: 80px;
 }
-#logo{
+
+#logo {
     font-size: 30px;
 }
+
+#fullsceen {
+    height: 740px;
+    background-color: aqua;
+    display: flex;
+  gap: 0px;
+}
+#left{
+    height: 740px;
+    background-color: black;
+    width: 300px;
+    display: inline-block;
+}
+
+#noleft{
+    height: 740px;
+    background-color: gray;
+    display: inline-block;
+    width: 1190px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(255, 81, 18);
+    height: 35px;
+    padding-top: 14px;
+}
+
