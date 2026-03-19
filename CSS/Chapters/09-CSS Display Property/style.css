@@ -1,0 +1,15 @@
+div {
+    width: 100px;
+    height: 100px;
+    margin: 25PX;
+    padding: 25PX;
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+#p {
+    /* hide but take space */
+    visibility: hidden;
+    /* Hide but didnt take space as well */
+    display: none;
+}
