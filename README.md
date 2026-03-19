@@ -31,7 +31,7 @@ To run the application locally, you'll need to have Node.js and MongoDB installe
 npm install
 ```
 Next, start the server by running:
-```sh
+ 
 npm run server
 ```
 Then, start the React development server by running:
@@ -40,8 +40,7 @@ npm run start
 ```
 
 You can access the application by navigating to [http://localhost:3000](http://localhost:3000) in your web browser.
-
-## Live Demo
+ 
 
 You can view a live demo of the application on the GitHub pages site for this repository:  
 
