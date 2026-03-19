@@ -1,0 +1,28 @@
+#main{
+    width: 105px;
+    height: 400px;
+    background-color: grey;
+    border-radius: 15px;
+    padding: 25px;
+}
+#d1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px black solid;
+    background-color: rgb(255, 0, 0);
+}
+#d2{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+     border: 5px black solid;
+    background-color: rgb(255, 234, 0);
+}
+#d3{
+    height: 100px;
+    width: 100px;
+     border: 5px black solid;
+    border-radius: 50%;
+    background-color: rgb(4, 255, 0);
+}
