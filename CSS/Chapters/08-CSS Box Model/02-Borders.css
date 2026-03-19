@@ -1,0 +1,23 @@
+h1{
+    background-color: yellowgreen;
+    height: 100px;
+    width: 350px;
+    color: brown;
+    text-align: center;
+    border: 5px solid rgb(146, 3, 3);
+    border-radius: 10px;
+}
+div{
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    border: 10px dotted rgb(242, 107, 130);
+    border-radius: 10px;
+    text-align: center;
+}
+p{
+    height: 200px;
+    width: 200px;
+    background-color: violet;
+    border-radius: 50%;
+}
