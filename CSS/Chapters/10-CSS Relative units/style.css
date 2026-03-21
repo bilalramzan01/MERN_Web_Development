@@ -1,0 +1,11 @@
+#p{
+    height: 200px;
+    width: 200px;
+    background-color: yellowgreen;
+}
+#c{
+    height: 100px;
+    width: 40%;
+    background-color: red;
+    margin-left: 50%;
+}
