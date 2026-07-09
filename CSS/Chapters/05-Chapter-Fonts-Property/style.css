@@ -1,14 +1,14 @@
 h1{
-    text-decoration:  underline blue wavy 10px;
+    text-decoration:  underline blue wavy 20px;
     text-align: center;
 }
 A{
     text-decoration: none;
-    color: blueviolet;
+    color: rgb(43, 226, 70);
 }
 #p1 {
     font-family: 'Lucida Sans';
-    font-weight: 800px;
+    font-weight: 8500px;
 
 }
 #p2 {
@@ -23,5 +23,5 @@ A{
 }
 h1{
     color: blue;
-    background-color: rgb(71, 255, 114);
+    background-color: rgb(91, 255, 114);
 }
